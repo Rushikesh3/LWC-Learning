@@ -5,6 +5,7 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "financialforce.lana",
-    "salesforce.salesforcedx-einstein-gpt"
+    "salesforce.salesforcedx-einstein-gpt",
+    "DotJoshJohnson.xml"
   ]
 }
